@@ -7,6 +7,6 @@ public class Divide {
 	   }
 	private int divnumbers(int a,int b)
 	{
-		return (a/b);
+		return (a+b+2);
 	}
 }
